@@ -8,5 +8,5 @@
 cscope.*
 .*.swo
 tags
-build
+
 .idea
